@@ -6,6 +6,7 @@ public class Main {
                 "Hello world!\n" +
                 "Hello world\n" +
                 "Hello world!\n"+
-                "Hello world!\n");
+                "Hello world!\n"+
+                "123");
     }
 }
